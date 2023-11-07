@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fracasami, PhD student at Politecnico di Milano
-- 👀 I’m interested in Python programming for instrument control and X-ray Computed Tomography
+- 👀 I’m interested in Python and/or LabVIEW programming for instrument control and X-ray Computed Tomography
 - 🌱 I’m currently learning how to use Tomopy and NeuTomPy
 - 💞️ I’d appreciate any help from the community on the topics of interest
 - 📫 How to reach me: francesco.casamichiela@polimi.it
